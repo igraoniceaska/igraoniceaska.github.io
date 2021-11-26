@@ -60,6 +60,12 @@ html {
     text-align: center;
     background: #fff;
 }
+.products-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+}
 .contact-section {
     height: 100%;
     padding-top: 150px;
@@ -67,8 +73,8 @@ html {
     background: #fff;
 }
 .navbar-default .navbar-nav > li > a:hover {
-	color: #fff;
-	background-color: #999;
+	color: #999;
+	background-color: #fff;
 }
 .navbar-default {
     background-color: #fff;
