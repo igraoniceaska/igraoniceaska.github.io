@@ -1,6 +1,11 @@
+
+
+
 body {
     width: 100%;
     height: 100%;
+	font-family: 'Trebuchet MS', sans-serif;
+	font-size: 1.5em;
 }
 html {
     width: 100%;
@@ -49,6 +54,7 @@ html {
 .navbar-default .navbar-nav > li > a {
     color: #000;
 }
+
 
 
 @media(min-width:767px) {
