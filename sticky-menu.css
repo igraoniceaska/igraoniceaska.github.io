@@ -39,7 +39,7 @@ html {
     text-decoration: none;
 }
 #back2Top:hover {
-    background-color: #337AB7;
+    background-color: #fff;
     color: #FFF;
 }
 .welcome-section {
@@ -52,7 +52,7 @@ html {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #EFDECD;
+    background: #fff	;
 }
 .whatwedo-section {
     height: 100%;
@@ -64,14 +64,14 @@ html {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #EFDECD;
+    background: #fff;
 }
 .navbar-default .navbar-nav > li > a:hover {
 	color: #333;
-	background-color: #F0F0F0;
+	background-color: #fff;
 }
 .navbar-default {
-    background-color: #EBFAFF;
+    background-color: #fff;
     border-color: #e7e7e7;
 }
 .navbar-default .navbar-nav > li > a {
